@@ -1,10 +1,10 @@
 # CAN bus
 Example of Arduino to Arduino communication using CAN bus (MCP2515)
 
-Example usee the MPC2515 library mentioned below. There are other libraries that do the same thing. 
+Example uses the MPC2515 library mentioned below. There are other libraries that do the same thing. 
 
 ## Hardware used
-Both available at the Makerspace. Upstairs doe not have the MCP2515, but _does_ have a bunch of OLEDs.
+All available at the Makerspace(s). Upstairs does not have the MCP2515, but _does_ have a bunch of OLEDs. Both have various types of Arduino's.
 
 128x64 OLED [https://www.otronic.nl/en/mini-oled-display-white-096-inch-128x64-i2c.html](https://www.otronic.nl/en/mini-oled-display-white-096-inch-128x64-i2c.html)
 
@@ -19,3 +19,6 @@ OLED [https://github.com/adafruit/Adafruit_SSD1306](https://github.com/adafruit/
 See [https://how2electronics.com/interfacing-mcp2515-can-bus-module-with-arduino/](https://how2electronics.com/interfacing-mcp2515-can-bus-module-with-arduino/) for wiring the MCP2515 CAN bus break out boards
 
 See [https://learn.adafruit.com/monochrome-oled-breakouts/arduino-library-and-examples](https://learn.adafruit.com/monochrome-oled-breakouts/arduino-library-and-examples) for OLED Examples
+
+### The actual thing
+![CAN bus example project](https://github.com/manno-xx/CAN-bus/blob/main/IMG_0449.jpeg "CAN bus example project")
