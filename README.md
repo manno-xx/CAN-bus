@@ -22,3 +22,4 @@ See [https://learn.adafruit.com/monochrome-oled-breakouts/arduino-library-and-ex
 
 ### The actual thing
 ![CAN bus example project](https://github.com/manno-xx/CAN-bus/blob/main/IMG_0449.jpeg "CAN bus example project")
+![Close up of screen and potentiometer](https://github.com/manno-xx/CAN-bus/blob/main/IMG_0452.jpeg)
