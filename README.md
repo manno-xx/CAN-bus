@@ -4,6 +4,8 @@ Example of Arduino to Arduino communication using CAN bus (MCP2515)
 Example usee the MPC2515 library mentioned below. There are other libraries that do the same thing. 
 
 ## Hardware used
+Both available at the Makerspace. Upstairs doe not have the MCP2515, but _does_ have a bunch of OLEDs.
+
 128x64 OLED [https://www.otronic.nl/en/mini-oled-display-white-096-inch-128x64-i2c.html](https://www.otronic.nl/en/mini-oled-display-white-096-inch-128x64-i2c.html)
 
 MCP2515 CAN bus module [https://www.otronic.nl/en/can-bus-module-mcp2515-spi-5v.html](https://www.otronic.nl/en/can-bus-module-mcp2515-spi-5v.html)
