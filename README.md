@@ -1,7 +1,7 @@
 # CAN bus
 Example of Arduino to Arduino communication using CAN bus (MCP2515)
 
-Example usee the MPC2515 library mentioned below. There are other libraries that do the same thing. 
+Example uses the MPC2515 library mentioned below. There are other libraries that do the same thing. 
 
 ## Hardware used
 Both available at the Makerspace. Upstairs doe not have the MCP2515, but _does_ have a bunch of OLEDs.
