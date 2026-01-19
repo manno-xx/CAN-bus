@@ -19,3 +19,6 @@ OLED [https://github.com/adafruit/Adafruit_SSD1306](https://github.com/adafruit/
 See [https://how2electronics.com/interfacing-mcp2515-can-bus-module-with-arduino/](https://how2electronics.com/interfacing-mcp2515-can-bus-module-with-arduino/) for wiring the MCP2515 CAN bus break out boards
 
 See [https://learn.adafruit.com/monochrome-oled-breakouts/arduino-library-and-examples](https://learn.adafruit.com/monochrome-oled-breakouts/arduino-library-and-examples) for OLED Examples
+
+### The actual thing
+![CAN bus example project](https://github.com/manno-xx/CAN-bus/blob/main/IMG_0449.jpeg "CAN bus example project")
