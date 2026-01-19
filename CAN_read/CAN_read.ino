@@ -66,7 +66,10 @@ void loop()
 
     // draw the bar on the OLED
     display.clearDisplay();
-    display.fillRect(0, 0, canMsg.data[0], 10, SSD1306_WHITE);
+    display.setTextColor(SSD1306_WHITE);
+    display.setCursor(0, 0);
+    display.write("Volume:");
+    display.fillRect(0, 12, canMsg.data[0], 10, SSD1306_WHITE);
     display.display();
   }
 }
