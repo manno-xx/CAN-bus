@@ -20,6 +20,8 @@ See [https://how2electronics.com/interfacing-mcp2515-can-bus-module-with-arduino
 
 See [https://learn.adafruit.com/monochrome-oled-breakouts/arduino-library-and-examples](https://learn.adafruit.com/monochrome-oled-breakouts/arduino-library-and-examples) for OLED Examples
 
+See the example sketch Examples -> 3.0 Analog -> AnalogInput for the reading of the Potentio Meter's value
+
 ### The actual thing
 ![CAN bus example project](https://github.com/manno-xx/CAN-bus/blob/main/IMG_0449.jpeg "CAN bus example project")
 ![Close up of screen and potentiometer](https://github.com/manno-xx/CAN-bus/blob/main/IMG_0452.jpeg)
